@@ -1,0 +1,7 @@
+#calculator-object {
+    display: flex;
+    background-color: black;
+    height: 500px;
+    max-width: 500px;
+    border-radius: 5%;
+}
